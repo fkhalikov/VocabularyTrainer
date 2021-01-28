@@ -31,3 +31,28 @@ der Urlaub, die Urlaube|vacation
 verstehen|to understand
 viele|many
 vielleicht|perhaps
+das Arbeitszimmer, die Arbeitszimmer|office
+das Bad, die Bäder|bathroom
+das Badezimmer, die Badezimmer|bathroom
+dunkel|dark
+das Fenster, die Fenster|window
+der Flur, die Flure|hallway
+gemütlich|cozy
+hell|light
+hoch|expensive
+der Interessent, die Interessenten|interested person(m)
+die Interessentin, die Interessentinnen|interested person(f)
+der Keller, die Keller|cellar
+die Küche, die Küchen|kitchen
+kurz|short
+lang|long
+laut|loud
+der Monat, die Monate|month
+die Pommes frites|French fries
+der Quadratmeter, die Quadratmeter|square meter
+ruhig|quiet
+das Schlafzimmer, die Schlafzimmer|bedroom
+sitzen|to sit
+die Toilette, die Toiletten|toilet
+ungemütlich|uncomfortable
+das Wohnzimmer, die Wohnzimmer|living room
