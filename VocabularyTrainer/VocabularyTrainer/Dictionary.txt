@@ -56,3 +56,37 @@ sitzen|to sit
 die Toilette, die Toiletten|toilet
 ungemütlich|uncomfortable
 das Wohnzimmer, die Wohnzimmer|living room
+arbeiten|to work
+bequem|comfortable
+das Bett, die Betten|bed
+das Bild, die Bilder|picture
+das Bücherregal, die Bücherregale|bookcase; bookshelf
+der Bürostuhl, die Bürostühle|office chair
+die Couch, die Couches|couch
+der Fernseher, die Fernseher|television
+finden|to find
+die Gardine, die Gardinen|certain
+der Herd, die Herde|stove
+das Kissen, die Kissen|cushion; pillow
+der Kleiderschrank, die Kleiderschränke|closet
+der Kühlschrank, die Kühlschränke|refrigerator
+die Lampe, die Lampen|lamp
+das Möbel, die Möbel|furniture
+der Nachttisch, die Nachttische|bedside table
+das Regal, die Regale|(book) shelf; storage rack
+der Schrank, die Schränke|cabinet; wardrobe
+der Schreibtisch, die Schreibtische|desk
+der Schreibtischstuhl, die Schreibtischstühle|desk chair
+der Sessel, die Sessel|armchair; easy chair
+das Sofa, die Sofas|sofa; couch
+der Spiegel, die Spiegel|mirror
+spießig|bourgeois; square
+die Spüle, die Spülen|kitchen sink
+stehen|to stand; to be
+die Stehlampe, die Stehlampen|floor lamp
+der Stuhl, die Stühle|chair
+der Teppich, die Teppiche|carpet
+der Tisch, die Tische|table
+unbequem|uncomfortable
+die Waschmaschine, die Waschmaschinen|washer
+zu|too
