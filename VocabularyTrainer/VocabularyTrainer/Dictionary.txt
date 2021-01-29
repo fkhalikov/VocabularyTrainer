@@ -90,3 +90,57 @@ der Tisch, die Tische|table
 unbequem|uncomfortable
 die Waschmaschine, die Waschmaschinen|washer
 zu|too
+alle|all
+die Armbanduhr, die Armbanduhren|wristwatch
+bald|soon
+daneben|next to it/that
+dein(e)|your
+doch|On the contrary!
+dreckig|dirty
+duschen|to shower; to take a shower
+euer/eure|your/yours
+der Föhn, die Föhne|hair dryer
+das Handtuch, die Handtücher|hand towel
+ihr(e)|her,their
+Ihr(e)|your (formal)
+immer|always
+das Kinderzimmer, die Kinderzimmer|child's room
+Komm rein!|come in!
+Kommt drauf an.|That depends.
+mein(e)|my
+Möchtest du etwas trinken?|Would you like something to drink? (informal)
+der Nachbar, die Nachbarn|neighbor (male)
+die Nachbarin, die Nachbarinnen|neighbor (female)
+putzen|to clean (something)
+sauber|clean
+schlafen|to sleep
+sein(e)|his/its
+die Uhr, die Uhren|clock
+unser(e)|our
+die Unterhose, die Unterhosen|underwear; underpants
+warm|warm
+der Arzt, die Ärzte|doctor (male)
+die Ärztin, die Ärztinnen|doctor (female)
+der Babysitter, die Babysitter|babysitter (male)
+die Babysitterin, die Babysitterinnen|babysitter (female)
+beginnen|to begin; to start
+bis|until
+Das geht nicht.|That won't/doesn't work.
+Das weiß ich leider nicht.|Unfortunately, I don't know.
+halb|half (here it is used to express time and say it is halfway to the next full hour)
+krank|sick; ill
+die Lösung, die Lösungen|solution
+die Mittagspause, die Mittagspausen|lunch break
+morgen|tomorrow
+die Schule, die Schulen|school
+der Tag, die Tage|day
+der Termin, die Termine|appointment
+das Training, die Trainings|training; workout; (sports) practice
+Tut mir leid.|I'm sorry.
+um|at; around
+die Uni, die Unis|university; college
+das Volleyballtraining, die Volleyballtrainings|volleyball practice
+von|from
+wann|when
+Wie spät ist es?|How late is it?/What time is it?
+Wie viel Uhr ist es?|What time is it?
