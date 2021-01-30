@@ -24,7 +24,7 @@ namespace VocabularyTrainer
 
       foreach(var line in lines)
       {
-        var data = line.Split('|');
+        var data = line.Split('>');
 
         Words.Add(new Word { German = data[0], English = data[1] });
       }

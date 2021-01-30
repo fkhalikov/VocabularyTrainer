@@ -1,146 +1,175 @@
-﻿auf dem Land|In the country
-der Balkon, die Balkons|balcony; porch
-der Bekannte, die Bekannten|acquaintance(m)
-die Bekannte, die Bekannten|acquaintance(f)
-besser|better
-frei|free
-der Garten, die Gärten|garden
-die Heizung, die Heizungen|heating
-helfen|to help
-das Hochhaus, die Hochhäuser|high-rise building
-hoffen|to hope
-das Hostel, die Hostels|hostel
-in der Stadt|in the city
-die Jugendherberge, die Jugendherbergen|youth hostel
-kaputt|broken
-das Kind, die Kinder|child
-können|can
-leben|to live
-meist|most of the time; usually
-die Miete, die Mieten|rent
-der Mitbewohner, die Mitbewohner|roommate(m)
-die Mitbewohnerin, die Mitbewohnerinnen|roommate(f)
-die Natur|nature
-nett|nice
-oft|often
-schnell|fast
-teilen|to share
-ziehen um|to move
-der Umzug, die Umzüge|move
-der Urlaub, die Urlaube|vacation
-verstehen|to understand
-viele|many
-vielleicht|perhaps
-das Arbeitszimmer, die Arbeitszimmer|office
-das Bad, die Bäder|bathroom
-das Badezimmer, die Badezimmer|bathroom
-dunkel|dark
-das Fenster, die Fenster|window
-der Flur, die Flure|hallway
-gemütlich|cozy
-hell|light
-hoch|expensive
-der Interessent, die Interessenten|interested person(m)
-die Interessentin, die Interessentinnen|interested person(f)
-der Keller, die Keller|cellar
-die Küche, die Küchen|kitchen
-kurz|short
-lang|long
-laut|loud
-der Monat, die Monate|month
-die Pommes frites|French fries
-der Quadratmeter, die Quadratmeter|square meter
-ruhig|quiet
-das Schlafzimmer, die Schlafzimmer|bedroom
-sitzen|to sit
-die Toilette, die Toiletten|toilet
-ungemütlich|uncomfortable
-das Wohnzimmer, die Wohnzimmer|living room
-arbeiten|to work
-bequem|comfortable
-das Bett, die Betten|bed
-das Bild, die Bilder|picture
-das Bücherregal, die Bücherregale|bookcase; bookshelf
-der Bürostuhl, die Bürostühle|office chair
-die Couch, die Couches|couch
-der Fernseher, die Fernseher|television
-finden|to find
-die Gardine, die Gardinen|certain
-der Herd, die Herde|stove
-das Kissen, die Kissen|cushion; pillow
-der Kleiderschrank, die Kleiderschränke|closet
-der Kühlschrank, die Kühlschränke|refrigerator
-die Lampe, die Lampen|lamp
-das Möbel, die Möbel|furniture
-der Nachttisch, die Nachttische|bedside table
-das Regal, die Regale|(book) shelf; storage rack
-der Schrank, die Schränke|cabinet; wardrobe
-der Schreibtisch, die Schreibtische|desk
-der Schreibtischstuhl, die Schreibtischstühle|desk chair
-der Sessel, die Sessel|armchair; easy chair
-das Sofa, die Sofas|sofa; couch
-der Spiegel, die Spiegel|mirror
-spießig|bourgeois; square
-die Spüle, die Spülen|kitchen sink
-stehen|to stand; to be
-die Stehlampe, die Stehlampen|floor lamp
-der Stuhl, die Stühle|chair
-der Teppich, die Teppiche|carpet
-der Tisch, die Tische|table
-unbequem|uncomfortable
-die Waschmaschine, die Waschmaschinen|washer
-zu|too
-alle|all
-die Armbanduhr, die Armbanduhren|wristwatch
-bald|soon
-daneben|next to it/that
-dein(e)|your
-doch|On the contrary!
-dreckig|dirty
-duschen|to shower; to take a shower
-euer/eure|your/yours
-der Föhn, die Föhne|hair dryer
-das Handtuch, die Handtücher|hand towel
-ihr(e)|her,their
-Ihr(e)|your (formal)
-immer|always
-das Kinderzimmer, die Kinderzimmer|child's room
-Komm rein!|come in!
-Kommt drauf an.|That depends.
-mein(e)|my
-Möchtest du etwas trinken?|Would you like something to drink? (informal)
-der Nachbar, die Nachbarn|neighbor (male)
-die Nachbarin, die Nachbarinnen|neighbor (female)
-putzen|to clean (something)
-sauber|clean
-schlafen|to sleep
-sein(e)|his/its
-die Uhr, die Uhren|clock
-unser(e)|our
-die Unterhose, die Unterhosen|underwear; underpants
-warm|warm
-der Arzt, die Ärzte|doctor (male)
-die Ärztin, die Ärztinnen|doctor (female)
-der Babysitter, die Babysitter|babysitter (male)
-die Babysitterin, die Babysitterinnen|babysitter (female)
-beginnen|to begin; to start
-bis|until
-Das geht nicht.|That won't/doesn't work.
-Das weiß ich leider nicht.|Unfortunately, I don't know.
-halb|half (here it is used to express time and say it is halfway to the next full hour)
-krank|sick; ill
-die Lösung, die Lösungen|solution
-die Mittagspause, die Mittagspausen|lunch break
-morgen|tomorrow
-die Schule, die Schulen|school
-der Tag, die Tage|day
-der Termin, die Termine|appointment
-das Training, die Trainings|training; workout; (sports) practice
-Tut mir leid.|I'm sorry.
-um|at; around
-die Uni, die Unis|university; college
-das Volleyballtraining, die Volleyballtrainings|volleyball practice
-von|from
-wann|when
-Wie spät ist es?|How late is it?/What time is it?
-Wie viel Uhr ist es?|What time is it?
+﻿auf dem Land>In the country
+der Balkon, die Balkons>balcony; porch
+der Bekannte, die Bekannten>acquaintance(m)
+die Bekannte, die Bekannten>acquaintance(f)
+besser>better
+frei>free
+der Garten, die Gärten>garden
+die Heizung, die Heizungen>heating
+helfen>to help
+das Hochhaus, die Hochhäuser>high-rise building
+hoffen>to hope
+das Hostel, die Hostels>hostel
+in der Stadt>in the city
+die Jugendherberge, die Jugendherbergen>youth hostel
+kaputt>broken
+das Kind, die Kinder>child
+können>can
+leben>to live
+meist>most of the time; usually
+die Miete, die Mieten>rent
+der Mitbewohner, die Mitbewohner>roommate(m)
+die Mitbewohnerin, die Mitbewohnerinnen>roommate(f)
+die Natur>nature
+nett>nice
+oft>often
+schnell>fast
+teilen>to share
+ziehen um>to move
+der Umzug, die Umzüge>move
+der Urlaub, die Urlaube>vacation
+verstehen>to understand
+viele>many
+vielleicht>perhaps
+das Arbeitszimmer, die Arbeitszimmer>office
+das Bad, die Bäder>bathroom
+das Badezimmer, die Badezimmer>bathroom
+dunkel>dark
+das Fenster, die Fenster>window
+der Flur, die Flure>hallway
+gemütlich>cozy
+hell>light
+hoch>expensive
+der Interessent, die Interessenten>interested person(m)
+die Interessentin, die Interessentinnen>interested person(f)
+der Keller, die Keller>cellar
+die Küche, die Küchen>kitchen
+kurz>short
+lang>long
+laut>loud
+der Monat, die Monate>month
+die Pommes frites>French fries
+der Quadratmeter, die Quadratmeter>square meter
+ruhig>quiet
+das Schlafzimmer, die Schlafzimmer>bedroom
+sitzen>to sit
+die Toilette, die Toiletten>toilet
+ungemütlich>uncomfortable
+das Wohnzimmer, die Wohnzimmer>living room
+arbeiten>to work
+bequem>comfortable
+das Bett, die Betten>bed
+das Bild, die Bilder>picture
+das Bücherregal, die Bücherregale>bookcase; bookshelf
+der Bürostuhl, die Bürostühle>office chair
+die Couch, die Couches>couch
+der Fernseher, die Fernseher>television
+finden>to find
+die Gardine, die Gardinen>certain
+der Herd, die Herde>stove
+das Kissen, die Kissen>cushion; pillow
+der Kleiderschrank, die Kleiderschränke>closet
+der Kühlschrank, die Kühlschränke>refrigerator
+die Lampe, die Lampen>lamp
+das Möbel, die Möbel>furniture
+der Nachttisch, die Nachttische>bedside table
+das Regal, die Regale>(book) shelf; storage rack
+der Schrank, die Schränke>cabinet; wardrobe
+der Schreibtisch, die Schreibtische>desk
+der Schreibtischstuhl, die Schreibtischstühle>desk chair
+der Sessel, die Sessel>armchair; easy chair
+das Sofa, die Sofas>sofa; couch
+der Spiegel, die Spiegel>mirror
+spießig>bourgeois; square
+die Spüle, die Spülen>kitchen sink
+stehen>to stand; to be
+die Stehlampe, die Stehlampen>floor lamp
+der Stuhl, die Stühle>chair
+der Teppich, die Teppiche>carpet
+der Tisch, die Tische>table
+unbequem>uncomfortable
+die Waschmaschine, die Waschmaschinen>washer
+zu>too
+alle>all
+die Armbanduhr, die Armbanduhren>wristwatch
+bald>soon
+daneben>next to it/that
+dein(e)>your
+doch>On the contrary!
+dreckig>dirty
+duschen>to shower; to take a shower
+euer/eure>your/yours
+der Föhn, die Föhne>hair dryer
+das Handtuch, die Handtücher>hand towel
+ihr(e)>her,their
+Ihr(e)>your (formal)
+immer>always
+das Kinderzimmer, die Kinderzimmer>child's room
+Komm rein!>come in!
+Kommt drauf an.>That depends.
+mein(e)>my
+Möchtest du etwas trinken?>Would you like something to drink? (informal)
+der Nachbar, die Nachbarn>neighbor (male)
+die Nachbarin, die Nachbarinnen>neighbor (female)
+putzen>to clean (something)
+sauber>clean
+schlafen>to sleep
+sein(e)>his/its
+die Uhr, die Uhren>clock
+unser(e)>our
+die Unterhose, die Unterhosen>underwear; underpants
+warm>warm
+der Arzt, die Ärzte>doctor (male)
+die Ärztin, die Ärztinnen>doctor (female)
+der Babysitter, die Babysitter>babysitter (male)
+die Babysitterin, die Babysitterinnen>babysitter (female)
+beginnen>to begin; to start
+bis>until
+Das geht nicht.>That won't/doesn't work.
+Das weiß ich leider nicht.>Unfortunately, I don't know.
+halb>half (here it is used to express time and say it is halfway to the next full hour)
+krank>sick; ill
+die Lösung, die Lösungen>solution
+die Mittagspause, die Mittagspausen>lunch break
+morgen>tomorrow
+die Schule, die Schulen>school
+der Tag, die Tage>day
+der Termin, die Termine>appointment
+das Training, die Trainings>training; workout; (sports) practice
+Tut mir leid.>I'm sorry.
+um>at; around
+die Uni, die Unis>university; college
+das Volleyballtraining, die Volleyballtrainings>volleyball practice
+von>from
+wann>when
+Wie spät ist es?>How late is it?/What time is it?
+Wie viel Uhr ist es?>What time is it?
+am Sonntag>on Sunday
+an|fangen>to start
+auf|hören>to finish; to stop
+der Dienstag, die Dienstage>Tuesday
+der Donnerstag, die Donnerstage>Thursday
+fertig>finished
+der Freitag, die Freitage>Friday
+(der) Fußball>soccer
+gestern>yesterday
+glauben>to believe; to think
+kochen>to cook
+etwas korrigieren>to correct something
+lange>long; for a long time
+mit|kommen>to come along with someone
+etwas mit|schreiben>to take notes
+der Mittwoch, die Mittwoche>Wednesday
+der Montag, die Montage>Monday
+der Opa, die Opas>grandpa
+der Samstag, die Samstage>Saturday
+der Schüler, die Schüler>student; pupil (male)
+die Schülerin, die Schülerinnen>student; pupil (female)
+der Sonntag, die Sonntage>Sunday
+spät>late
+die Übung, die Übungen>exercise
+der Unterricht>lesson
+etwas vor|bereiten>to prepare something
+vor|lesen>to read something to somebody
+waschen>to wash (something)
+die Zeit>time
