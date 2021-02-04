@@ -200,3 +200,102 @@ das Tennis>tennis
 das Wochenende, die Wochenenden>weekend
 Zeit haben>to have time
 zuerst>first
+ab>from
+ab wann>from when (on)
+allein>alone
+am>on
+Auf Wiederhören!>Goodbye! (on the telephone)
+die Dreiviertelstunde, die Dreiviertelstunden>three-quarters of an hour; 45 minutes
+der Fisch, die Fische>fish
+geöffnet haben>to be open (as in: a store, business, etc.)
+geschlossen haben>to be closed (as in: a store, business, etc.)
+halbe Stunde>half an hour
+in>in
+kurz nach>shortly after
+kurz vor>shortly before
+leider>unfortunately
+die Minute, die Minuten>minute
+das Mittagsangebot, die Mittagsangebote>lunch dish; lunch menu
+nach>after
+die Öffnungszeit, die Öffnungszeiten>opening hours; business hours
+die Roulade, die Rouladen>roulade; braised meat rolls
+die Stunde, die Stunden>hour
+die Suppe, die Suppen>soup
+die Viertelstunde, die Viertelstunden>quarter of an hour
+Viertel nach>quarter past
+Viertel vor>quarter to
+vor>before
+warten>to wait (for so./sth.)
+der Zug, die Züge>train
+abends>in the evening
+der April>April
+der August>August
+Das passt gut.>That works/That's fine. 
+das Datum, die Daten>date
+Der Wievielte ist heute?>the date (today)
+der Dezember>December
+der Februar>February
+der Frühdienst, die Frühdienste>early shift
+Heute ist der …>Today is the... (plus date)
+der Januar>January
+der Juli>July
+der Juni>June
+der Kalender, die Kalender>calendar
+der Mai>May
+der März>March
+mittags>at noon; at midday
+morgens>in the mornings; every morning
+nachmittags>in the afternoon; in the afternoons
+der November>November
+der Oktober>October
+die Person, die Personen>person
+reservieren>to reserve
+die Reservierung, die Reservierungen>reservation
+der September>September
+übermorgen>the day after tomorrow
+vorgestern>the day before yesterday
+vormittags>mornings; in the morning (regularly)
+brauchen>to need something/somebody
+Das geht.>That works./That's OK. 
+den ganzen Tag>the entire day
+dieser, diese, dieses>this
+erst>just; only
+Gute Idee.>Good idea.
+Ich habe Lust.>I feel like.../I would enjoy...
+Ich habe keine Lust.>I don't feel like it.
+können>to be able to; can
+Lust (auf etwas) haben>to feel like something; to have a desire for something
+nächster, nächste, nächstes>next
+noch>still (i.e., still raining, still asleep)
+nur>only; just
+schon>already
+das Schwimmbad, die Schwimmbäder>swimming pool
+treffen>to meet (someone)
+wann>when
+die Woche, die Wochen>week
+der Zoo, die Zoos>zoo
+etwas ab|sagen>to cancel something
+Das macht nichts.>That doesn't matter.
+der Deutsche, die Deutschen>German person (male)
+die Deutsche, die Deutschen>German person (female)
+ein paar Tage>a few days
+der Europäer, die Europäer>European (male)
+die Europäerin, die Europäerinnen>European (female)
+jemandem etwas geben>to give something to someone
+glauben>glaubt, glaubte, hat geglaubt to believe; to think
+Ist schon gut.>It's all good./That's fine.
+die Langeweile>nur Singular boredom
+langsam>slow
+modern>modern
+die Panne, die Pannen>breakdown; glitch; malfunction
+der Platz>space; room
+pünktlich>punctual
+Spaß haben>to have fun
+später>later
+der Stau, die Staus>traffic jam
+das Treffen, die Treffen>meeting
+unpünktlich>tardy
+die Verspätung, die Verspätungen>delay; late arrival
+Viele Grüße>best regards
+voll>full; filled
+wie>as
