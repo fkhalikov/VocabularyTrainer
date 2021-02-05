@@ -299,3 +299,45 @@ die Verspätung, die Verspätungen>delay; late arrival
 Viele Grüße>best regards
 voll>full; filled
 wie>as
+der Anwalt, die Anwälte>lawyer (male)
+die Anwältin, die Anwältinnen>lawyer (female)
+die Arbeitszeit, die Arbeitszeiten>working hours
+die Bank, die Banken>bank
+die Bankkauffrau, die Bankkauffrauen>qualified bank clerk; banker (female)
+der Bankkaufmann, die Bankkaufmänner>qualified bank clerk; banker (male)
+der Beruf, die Berufe>occupation; profession
+von Beruf>by profession; by trade
+beruflich>for work; professionally
+das Bewerbungsgespräch, die Bewerbungsgespräche>job interview
+der Chef, die Chefs>boss; manager (male)
+die Chefin, die Chefinnen>boss; manager (female)
+der Elektriker, die Elektriker>electrician (male)
+die Elektrikerin, die Elektrikerinnen>electrician (female)
+die Fabrik, die Fabriken>factory
+fest>here: fixed; permanent; steady
+frei|haben>to have time off
+der Friseur, die Friseure>hairdresser; stylist (male)
+die Friseurin, die Friseurinnen>hairdresser; stylist (female)
+der Friseursalon, die Friseursalons>hair salon; hair dresser's
+das Geschäft, die Geschäfte>store; shop
+der Informatiker, die Informatiker>computer scientist (male)
+die Informatikerin, die Informatikerinnen>computer scientist (female)
+der Ingenieur, die Ingenieure>engineer (male)
+die Ingenieurin, die Ingenieurinnen>engineer (female)
+der Kfz-Mechatroniker, die Kfz-Mechatroniker>automotive mechatronics engineer (male)
+die Kfz-Mechatronikerin, die Kfz-Mechatronikerinnen>automotive mechatronics engineer (female)
+der Koch, die Köche>cook; chef (male)
+die Köchin, die Köchinnen>cook; chef (female)
+der Kollege, die Kollegen>colleague (male)
+die Kollegin, die Kolleginnen>colleague (female)
+das Krankenhaus, die Krankenhäuser>hospital
+der Kunde, die Kunden>customer; client (male)
+die Kundin, die Kundinnen>customer; client (female)
+etwas leiten>to manage; to head something
+etwas mögen>to like something
+die Schwester, die Schwestern>sister
+Stimmt.>That's right.
+der Verkäufer, die Verkäufer>shop assistant; salesperson (male)
+die Verkäuferin, die Verkäuferinnen>shop assistant; salesperson (female)
+Viel Erfolg.>Good luck!
+die Werkstatt, die Werkstätten>workshop; shop (example: mechanical garage, technical shop etc.)
