@@ -341,3 +341,35 @@ der Verkäufer, die Verkäufer>shop assistant; salesperson (male)
 die Verkäuferin, die Verkäuferinnen>shop assistant; salesperson (female)
 Viel Erfolg.>Good luck!
 die Werkstatt, die Werkstätten>workshop; shop (example: mechanical garage, technical shop etc.)
+das Arbeitstreffen, die Arbeitstreffen>work meeting
+jemanden beraten>to advise someone
+jemandem etwas bringen>to bring something to someone
+etwas buchen>to book something
+die Büroarbeit, die Büroarbeiten>office work
+der Erzieher, die Erzieher>kindergarten teacher; childcare provider (male)
+die Erzieherin, die Erzieherinnen>kindergarten teacher; childcare provider (female)
+Finanzen überprüfen>to review one's finances
+das Fitnessstudio, die Fitnessstudios>gym; fitness studio
+freundlich>friendly
+das Geld, die Gelder>money
+das Gerät, die Geräte>machine; device
+jeder, jede, jedes>every; each
+der Kindergarten, die Kindergärten>kindergarten; pre-school
+etwas/jemanden kontrollieren>to check; to inspect; to double-check (tickets, boarding passes, work etc.)
+lecker>delicious
+das Meeting, die Meetings>meeting
+der Mitarbeiter, die Mitarbeiter>employee (male)
+die Mitarbeiterin, die Mitarbeiterinnen>employee (female)
+müssen>to have to/need to
+natürlich>of course; naturally
+etwas organisieren>to organize something
+etwas planen>to plan something
+etwas reparieren>to repair something
+der Sekretär, die Sekretäre>secretary (male)
+die Sekretärin, die Sekretärinnen>secretary (female)
+der Teller, die Teller>plate
+der Traumberuf, die Traumberufe>dream job
+etwas unterschreiben>to sign something
+der Vertrag, die Verträge>contract; agreement; treaty
+die Vokabel, die Vokabeln>vocabulary word
+(etwas) zählen>to count something
