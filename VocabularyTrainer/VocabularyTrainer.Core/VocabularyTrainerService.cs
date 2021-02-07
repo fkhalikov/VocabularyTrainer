@@ -2,7 +2,7 @@
 
 namespace VocabularyTrainer.Core
 {
-  public class Class1
+  public class VocabularyTrainerService
   {
   }
 }

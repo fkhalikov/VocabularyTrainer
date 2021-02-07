@@ -4,6 +4,7 @@ using System.IO;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
+using VocabularyTrainer.Ports;
 
 namespace VocabularyTrainer
 {
@@ -76,10 +77,5 @@ namespace VocabularyTrainer
     }
   }
 
-  public class Word
-  {
-    public string English { get; set; }
 
-    public string German { get; set; }
-  }
 }

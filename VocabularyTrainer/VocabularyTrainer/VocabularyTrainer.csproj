@@ -18,4 +18,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VocabularyTrainer.Ports\VocabularyTrainer.Ports.csproj" />
+  </ItemGroup>
+
 </Project>

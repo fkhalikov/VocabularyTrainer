@@ -373,3 +373,41 @@ etwas unterschreiben>to sign something
 der Vertrag, die Verträge>contract; agreement; treaty
 die Vokabel, die Vokabeln>vocabulary word
 (etwas) zählen>to count something
+an>at; on
+auf>on
+der Ausgang, die Ausgänge>exit
+das Bewerbungsgespräch, die Bewerbungsgespräche>job interview
+der Besprechungsraum, die Besprechungsräume>conference room
+die Bibliothek, die Bibliotheken>library
+der Büroraum, die Büroräume>office; office room
+die Cafeteria, die Cafeterias>cafeteria
+dritter, dritte, drittes>third
+der Empfang>reception; front desk
+das Erdgeschoss, die Erdgeschosse>ground floor; ground level
+die Etage, die Etagen>floor; story; level
+die Garderobe, die Garderoben>coat check; wardrobe; coat rack
+das Gebäude, die Gebäude>building
+hängen>to hang
+hinter>behind
+in>in
+die Kantine, die Kantinen>cafeteria; canteen
+der Konferenzraum, die Konferenzräume>conference room
+der Lesesaal, die Lesesäle>reading room
+links>left
+neben>next to
+der Notausgang, die Notausgänge>emergency exit
+der Raum, die Räume>room, space
+rechts>right
+das Schild, die Schilder>sign
+das Sekretariat, die Sekretariate>secretariat; registry; office
+statt|finden>to take place; occur
+die Treppe, die Treppen>stairs; steps; staircase
+die Tür, die Türen>door
+über>above; over
+unter>under; below
+das Untergeschoss, die Untergeschosse>basement floor 
+vor>in front of
+die Wand, die Wände>wall
+Wir wohnen in der ersten Etage.>We live on the second floor. (American English)/We live on the first floor. (British English)
+Wo finde ich …?>Where can I find...?
+zwischen>between
