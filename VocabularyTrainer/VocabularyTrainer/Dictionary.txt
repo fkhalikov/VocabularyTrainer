@@ -411,3 +411,36 @@ die Wand, die Wände>wall
 Wir wohnen in der ersten Etage.>We live on the second floor. (American English)/We live on the first floor. (British English)
 Wo finde ich …?>Where can I find...?
 zwischen>between
+der Architekt, die Architekten>architect (male)
+die Architektin, die Architektinnen>architect (female)
+der Designer, die Designer>designer (male)
+die Designerin, die Designerinnen>designer (female)
+der Fotograf, die Fotografen>photographer (male)
+die Fotografin, die Fotografinnen>photographer (female)
+etwas/jemanden hassen>to hate something/somebody
+die Reise, die Reisen>trip
+still>quiet
+weg>away
+etwas werden>to become something
+die Werkstatt, die Werkstätten>workshop; shop (example: mechanical garage, technical shop etc.)
+wollen>to want
+zu Hause>at home
+die Allee, die Alleen>parkway; avenue; boulevard
+der Bahnhof, die Bahnhöfe>train station
+etwas behalten>to keep; to maintain
+bei>here: at
+etwas>something
+die Gasse, die Gassen>narrow street; alley
+die Hose, die Hosen>pants; trousers
+in der Nähe (von)>near
+die Jacke, die Jacken>jacket
+etwas kaufen>to buy something
+der Koffer, die Koffer>suitcase
+die Oper, die Opern>opera
+der Platz, die Plätze>square
+die Post>post office
+jemandem etwas schenken>to give someone something (a present)
+der Stadtplan, die Stadtpläne>city map
+die Tankstelle, die Tankstellen>gas station
+der Weg, die Wege>path
+etwas zurück|geben>to give something back; to return something
